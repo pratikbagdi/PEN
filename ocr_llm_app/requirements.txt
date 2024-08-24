@@ -1,4 +1,5 @@
 streamlit
-pytesseract
-Pillow
-requests 
+numpy
+pillow
+easyocr
+requests
